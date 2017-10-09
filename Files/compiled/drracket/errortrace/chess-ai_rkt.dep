@@ -1,0 +1,1 @@
+("6.8" ("49a2149cd74f9c176b43b38d445953d1c97a6d5d" . "6b96c34ade653c096e92a719d304469a1e581d7d") #"/Users/Apple/Desktop/CHESS-final2/Files/chess.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
