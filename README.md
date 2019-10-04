@@ -1,6 +1,10 @@
 # Chess-Classic
 
-This is a single player and double player chess game.<br />
-To play the game, run run.rkt.<br />
-For more information please refer to Project Report.
+The classic game of chess with single-player mode against self-developed artificially intelligent agent.
+The AI uses minimax-algorithm along with alpha-beta prunning and various other optimizations. The board heuristics used is a weighted combination of piece-value, mobility and other factors.
 
+## Instructions for Running the Game
+---
+* Clone this repository
+* Install DrRacket
+* Open `run.rkt` in DrRacket and run it.
